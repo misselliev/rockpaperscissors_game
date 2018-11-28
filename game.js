@@ -89,5 +89,7 @@
       }
       console.log("You: "+userScore+ "\nComputer: "+computerScore);
     }
+    
+    game();
 
 </script>
