@@ -81,10 +81,10 @@
         }
 
         if(userScore > computerScore){
-            message = "Congrats! You are the winner";
+            message = "Congrats! You win!";
         }
         else{
-            message = "Boo! Looser!";
+            message = "Better luck next time!";
         }
       }
       console.log("You: "+userScore+ "\nComputer: "+computerScore);
