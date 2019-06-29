@@ -1,17 +1,17 @@
 // Setting user inputs
+
 var rock = document.querySelector("#rock");
 rock.addEventListener("click", () => {
-  round("rock");
+  console.log("rock");
 });
-
 var paper = document.querySelector("#paper");
 paper.addEventListener("click", () => {
-  round("paper");
+  console.log("paper");
 });
 
 var scissors = document.querySelector("#scissors");
 scissors.addEventListener("click", () => {
-  round("scissors");
+  console.log("scissors");
 });
 
 // Setting computer inputs
@@ -95,4 +95,4 @@ function game() {
   console.log("You: " + userScore + "\nComputer: " + computerScore);
 }
 
-game();
+// game();
