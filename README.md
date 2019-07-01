@@ -6,10 +6,6 @@ Made with Javascript.
 
 Adding 5 rounds to a game.
 
-# Live
-
-You can look at the live version [here](https://misselliev.github.io/rockpaperscissors_game/)
-
 # About
 
 You can reach me at:
